@@ -169,8 +169,9 @@
         <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
 <br/>
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kishordmane&theme=react-dark&hide_border=true" /></a>
+ 
+<!--  <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Aman Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kishordmane&theme=react-dark&hide_border=true" /></a> -->
 <!--------------------------------------------------------fOLLOWERS------------------------------------------------------------>
  
 ## ❤ Views and Followers
