@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Arjun Yadav</h1>
+<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">Full Stack Web developer</h3>
 <div width="100%" display="flex">
 <h4 align="left">- I'm a Full Stack Web Developer with a specialization in MERN stack </h4>
@@ -12,7 +12,7 @@
 
 <!-- - 🌱 I’m currently learning MERN Stack
 
-- 👨‍💻 All of my projects are available at [https://yadavarjun182.github.io/](https://yadavarjun182.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/Amanastel/acrid-baseball-3533]([https://Amanastel.github.io/](https://github.com/Amanastel/acrid-baseball-3533))
 
 - 💬 Ask me about **MERN, html ,css**
 
@@ -23,8 +23,8 @@
 - ⚡ Fun fact **You can ask a silly doubt**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arjun-yadav-4a3518168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-yadav-4a3518168" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code with arjun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with arjun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-astel-18a543198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-yadav-4a3518168" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/code with Aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with arjun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
