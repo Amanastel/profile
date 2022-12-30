@@ -121,9 +121,8 @@
 <div><h2> 🌐 Socials</h2> <div/>
 <br/>
 <p align="left">
-<a href = "https://www.linkedin.com/in/arjun-yadav-4a3518168/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "mailto:yadavarjun182@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://yadavarjun182.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+<a href = "https://www.linkedin.com/in/aman-astel-18a543198/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "amankumar.ak0012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
  
 </p>
@@ -178,7 +177,7 @@
 <!--------------------------------------------------------SNACK CALENDAR------------------------------------------------------------>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mitresh-prajapati/"> 
+  <a href="https://www.linkedin.com/in/aman-astel-18a543198/"> 
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
@@ -190,7 +189,7 @@
 <!--------------------------------------------------------fOLLOWERS------------------------------------------------------------>
  
 ## ❤ Views and Followers
-<a href="https://github.com/yadavarjun182/github-profile-views-counter">
+<a href="https://github.com/Amanastel/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=yadavarjun182">
 </a>
-<a href="https://github.com/yadavarjun182?tab=followers"><img src="https://img.shields.io/github/followers/yadavarjun182?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Amanastel?tab=followers"><img src="https://img.shields.io/github/followers/yadavarjun182?label=Followers&style=social" alt="GitHub Badge"></a>
