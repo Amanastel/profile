@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+<h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FFA07A&width=435&lines=HI%2C+I+am+Aman+Kumar;A+Full+Stack+Web+developer;Hungry++To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" /></a></h1>
 <h3 align="center">Full Stack Web developer</h3>
 <div width="100%" display="flex">
 <h4 align="left">- I'm a Full Stack Web Developer with a specialization in MERN stack </h4>
@@ -10,34 +10,7 @@
 
 <p align="left"> <img height="400px" margin-left="200px" width="1200px" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="yadavarjun182" /> </p>
 
-<!-- - 🌱 I’m currently learning MERN Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amanastel/acrid-baseball-3533]([https://Amanastel.github.io/](https://github.com/Amanastel/acrid-baseball-3533))
-
-- 💬 Ask me about **MERN, html ,css**
-
-- 📫 How to reach me **yadvarjun182@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rAdqPXeteAVv2BjlB9oDq85Dt5SAfIh3/view?usp=sharing](https://drive.google.com/file/d/1rAdqPXeteAVv2BjlB9oDq85Dt5SAfIh3/view?usp=sharing)
-
-- ⚡ Fun fact **You can ask a silly doubt**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aman-astel-18a543198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-yadav-4a3518168" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code with Aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with arjun" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavarjun182&show_icons=true&locale=en&layout=compact" alt="yadavarjun182" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavarjun182&show_icons=true&locale=en" alt="yadavarjun182" /></p>
-<br/>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavarjun182&" alt="yadavarjun182" /></p>
-
-
- -->
  
 
 
@@ -119,11 +92,13 @@
  
  
 <div><h2> 🌐 Socials</h2> <div/>
+  <p align="left"></p>
+<img align="left" width="70" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"/>
 <br/>
 <p align="left">
 <a href = "https://www.linkedin.com/in/aman-astel-18a543198/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "amankumar.ak0012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
+<a href="https://drive.google.com/drive/u/0/folders/1btcvEUYKm6iBQgaw2LE8OpCOtOxLSX-x?lfhs=2" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
  
 </p>
                                                                                                                        
