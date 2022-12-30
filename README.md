@@ -169,6 +169,8 @@
         <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
 <br/>
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kishordmane&theme=react-dark&hide_border=true" /></a>
 <!--------------------------------------------------------fOLLOWERS------------------------------------------------------------>
  
 ## ❤ Views and Followers
@@ -176,3 +178,10 @@
     <img src="https://komarev.com/ghpvc/?username=yadavarjun182">
 </a>
 <a href="https://github.com/Amanastel?tab=followers"><img src="https://img.shields.io/github/followers/yadavarjun182?label=Followers&style=social" alt="GitHub Badge"></a>
+ 
+ 
+ 
+<!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
+
+ 
+
