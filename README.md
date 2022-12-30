@@ -1,6 +1,7 @@
 
-<h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FFA07A&width=435&lines=HI%2C+I+am+Aman+Kumar;A+Full+Stack+Web+developer;Hungry++To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" /></a></h1>
+
 <h3 align="center">Full Stack Web developer</h3>
+<h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FFA07A&width=435&lines=HI%2C+I+am+Aman+Kumar;A+Full+Stack+Web+developer;Hungry++To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" /></a></h1>
 <div width="100%" display="flex">
 <h4 align="left">- I'm a Full Stack Web Developer with a specialization in MERN stack </h4>
  <p>Having hands-on experience of more than 1200+ hours on coding, solving DSA problems and building logical abilities </p>
