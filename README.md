@@ -148,24 +148,7 @@
  
 <br/>
 <br/>
-     
-     
- <!--- <div>
-  <div>
-     <p   aling="left">
-      <a href="https://github.com/yadavarjun182/github-readme-streak-stats">
-          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yadavarjun182's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavarjun182&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-      </a>
-  </p>                                                                                                                                              
-    </div>
-
- <div >
-   <p aling="right">                                                                                                 
-      <a href="https://github.com/yadavarjun182/github-readme-stats"><img alt="sonuprasad66's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yadavarjun182&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </p>   
- </div>
-</div> --->
-
+    
 
 
 <!--------------------------------------------------------GRAPH------------------------------------------------------------>
