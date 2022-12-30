@@ -58,11 +58,11 @@
 
 - 👯 I’m looking to work as **Full Stack Web Developer**
 
-- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/yadavarjun182?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Amanastel?tab=repositories)**
 
-- 📫 How to reach me **yadavarjun182@gmail.com**
+- 📫 How to reach me **amankumar.ak0012@gmail.com**
 
-- 🔭 Know more about me **[Portfolio](https://yadavarjun182.github.io/)**
+- 🔭 Know more about me **[Portfolio](https://github.com/Amanastel)**
 
 
 
@@ -134,7 +134,7 @@
 ## 📊 My Github Stats
    <br/>   
     <p align="center">      
-  <a href="https://github.com/yadavarjun182/github-readme-stats"><img alt="Arjun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavarjun182&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Amanastel/github-readme-stats"><img alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavarjun182&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>
   <br/>
  
