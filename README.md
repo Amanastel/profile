@@ -1,7 +1,6 @@
 
 
 <h3 align="center">Full Stack Web developer</h3>
-<h1 align="center"><a align="center" href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=100&color=FFA07A&width=435&lines=HI%2C+I+am+Aman+Kumar;A+Full+Stack+Web+developer;Hungry++To+Learn+New+Things;Interested+To+Work+With+Team+" alt="Typing SVG" /></a></h1>
 <div width="100%" display="flex">
 <h4 align="left">- I'm a Full Stack Web Developer with a specialization in MERN stack </h4>
  <p>Having hands-on experience of more than 1200+ hours on coding, solving DSA problems and building logical abilities </p>
@@ -9,7 +8,13 @@
 </div>
 <br/>
 
-<p align="left"> <img height="400px" margin-left="200px" width="1200px" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="yadavarjun182" /> </p>
+
+
+![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+<img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff9999&amp;size=20&amp;lines=Hey!+It's+Aman+Kumar!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+<img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 
  
